@@ -1,0 +1,181 @@
+#divRegistro{
+    background-color: peru;
+    color:brown;
+    padding-top: 5px;
+    padding-bottom: 565px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    margin: 5px auto 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#divRegistro{
+    position: relative;
+    display: block;
+}
+
+form{
+    background-color: lightsalmon;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+form{
+    position: relative;
+    top: 15px;
+}
+
+#divInicio{
+    background-color: peru;
+    color:brown;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    margin: 5px auto 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#divInicio{
+    position: relative;
+    display: block;
+}
+
+#divTitulo{
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#divTitulo{
+    position: relative;
+    display: block;
+}
+
+#divPrincipal{
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+#divCambio{
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    width: 500px;
+    height: 500px;
+    
+
+
+    margin: 5px auto 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#divPublicacion{
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    width: 500px;
+    height: 500px;
+    
+
+
+    margin: 5px auto 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#divTitulo{
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    width: 500px;
+    height: 80px;
+    
+
+
+    margin: 5px auto 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#divMenusito{
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    width: 500px;
+    height: 80px;
+    
+
+
+    margin: 5px auto 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#divPublicacion{
+    border-radius: 10px;
+}
+
+#divCerrar{
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    width: 300px;
+    height: 35px;
+    
+    margin: 5px auto 0;
+}
+
+#Footer{
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    width: 500px;
+    height: 80px;
+    
+
+
+    margin: 5px auto 0;
+}
+
+
+body{
+    
+    background: #ffffcc; 
+    /*background: url(../Downloads/prueba/prograweb/fondo.jpg);*/
+    /*background: url(../Downloads/avanceuno/prograweb/fondo.jpg)*/
+    margin:auto;
+    background-size: cover;
+    background-attachment: fixed;
+}
